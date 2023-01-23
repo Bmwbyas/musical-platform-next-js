@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bae49f7d-0670-4dd2-9d18-a9994f9aee09" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/routes/routes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/create/stepForm/StepForm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/create/stepWrapper/StepWrapper.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/fileUpload/FileUpload.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/navbar/Navbar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/navbar/data.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/player/Player.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/player/trackProgress/TrackProgress.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/trackList/TrackList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/trackList/trackItem/TrackItem.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/MainLayout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/tracks/[Trackid].tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/tracks/create.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/tracks/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/Player.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/TrackItem.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/types/track.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/_app.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/_document.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/api/hello.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/Home.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KeJmiZEEvtezYIsX8mKauv0FNN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/программирование/samurai-way-main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "ts.external.directory.path": "C:\\программирование\\musicalPlatform\\my-app\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\программирование\musicalPlatform\my-app\components\create" />
+      <recent name="C:\программирование\musicalPlatform\my-app\pages\tracks" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bae49f7d-0670-4dd2-9d18-a9994f9aee09" name="Changes" comment="" />
+      <created>1674329275989</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674329275989</updated>
+      <workItem from="1674329277843" duration="129000" />
+      <workItem from="1674449572950" duration="19413000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
