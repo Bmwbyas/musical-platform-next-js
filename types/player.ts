@@ -1,5 +1,13 @@
-import {number} from "prop-types";
 import {Itrack} from "@/types/track";
+import {
+    pauseTrack,
+    playTrack,
+    setActiveTrack,
+    setCurrentTime,
+    setDuration,
+    setVolume
+} from "@/store/actionsCreators/players";
+import {HYDRATE} from "next-redux-wrapper";
 
 export interface PlayerState {
     active:null|Itrack
@@ -8,4 +16,10 @@ export interface PlayerState {
     currentTime:number
     pause:boolean
 }
-export type PlayerActionType={}
+export type PlayersActionType= ReturnType<typeof playTrack>|
+    ReturnType<typeof pauseTrack>|
+    ReturnType<typeof setDuration>|
+    ReturnType<typeof setVolume>|
+    ReturnType<typeof setCurrentTime>|
+    ReturnType<typeof setActiveTrack>|
+    typeof HYDRATE

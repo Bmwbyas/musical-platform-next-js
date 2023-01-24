@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bae49f7d-0670-4dd2-9d18-a9994f9aee09" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/store/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/reducers/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/reducers/playerReducer.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/types/player.ts" afterDir="false" />
+    <list default="true" id="bae49f7d-0670-4dd2-9d18-a9994f9aee09" name="Changes" comment="feat (interface project and begin bussnes logic)">
+      <change afterPath="$PROJECT_DIR$/hooks/useActions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/useTypedSelector.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/_app.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/actionsCreators/players.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/player/Player.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/player/Player.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/player/trackProgress/TrackProgress.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/player/trackProgress/TrackProgress.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/trackList/TrackList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/trackList/TrackList.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/trackList/trackItem/TrackItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/trackList/trackItem/TrackItem.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/tracks/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/tracks/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/store/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/reducers/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/store/reducers/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/reducers/playerReducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/store/reducers/playerReducer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/types/player.ts" beforeDir="false" afterPath="$PROJECT_DIR$/types/player.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +40,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/программирование/samurai-way-main",
+    "last_opened_file_path": "C:/программирование/musicalPlatform/back-music-platform",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "yarn",
@@ -71,8 +81,17 @@
       <option name="presentableId" value="Default" />
       <updated>1674329275989</updated>
       <workItem from="1674329277843" duration="129000" />
-      <workItem from="1674449572950" duration="20895000" />
+      <workItem from="1674449572950" duration="21342000" />
+      <workItem from="1674538297906" duration="15587000" />
     </task>
+    <task id="LOCAL-00001" summary="feat (interface project and begin bussnes logic)">
+      <created>1674475723959</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674475723959</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,5 +107,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat (interface project and begin bussnes logic)" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat (interface project and begin bussnes logic)" />
   </component>
 </project>

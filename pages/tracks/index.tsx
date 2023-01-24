@@ -11,6 +11,7 @@ const Tracks = () => {
     const redirectToCreateTrack=()=>{
         router.push('/tracks/create')
     }
+
     const tracks:Itrack[]=[{
         name: "dfgh",
         artist: "sadadsdasad",

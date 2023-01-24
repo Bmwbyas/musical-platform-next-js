@@ -10,7 +10,7 @@ export const TrackList: React.FC<TrackListType> = ({tracks}) => {
     return (
         <Grid container direction={'column'}>
             <Box p={2}>
-                {tracks.map(t=><TrackItem key={t._id} t={t}/>)}
+                {tracks.map(t=><TrackItem key={t._id} track={t}/>)}
 
             </Box>
         </Grid>
